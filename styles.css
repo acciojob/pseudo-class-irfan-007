@@ -2,6 +2,9 @@
 #container{
 	margin:20px;
 	color:greenyellow;
+	background-color:black;
+	width:100%;
+	text-align:center;
 }
 #container::before{
 	content:"Before Element";
